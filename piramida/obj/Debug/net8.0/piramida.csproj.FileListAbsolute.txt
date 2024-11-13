@@ -1,0 +1,14 @@
+C:\Users\ADVAN\Documents\piramida\piramida\obj\Debug\net8.0\piramida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADVAN\Documents\piramida\piramida\obj\Debug\net8.0\piramida.AssemblyInfoInputs.cache
+C:\Users\ADVAN\Documents\piramida\piramida\obj\Debug\net8.0\piramida.AssemblyInfo.cs
+C:\Users\ADVAN\Documents\piramida\piramida\obj\Debug\net8.0\piramida.csproj.CoreCompileInputs.cache
+C:\Users\ADVAN\Documents\piramida\piramida\bin\Debug\net8.0\piramida.exe
+C:\Users\ADVAN\Documents\piramida\piramida\bin\Debug\net8.0\piramida.deps.json
+C:\Users\ADVAN\Documents\piramida\piramida\bin\Debug\net8.0\piramida.runtimeconfig.json
+C:\Users\ADVAN\Documents\piramida\piramida\bin\Debug\net8.0\piramida.dll
+C:\Users\ADVAN\Documents\piramida\piramida\bin\Debug\net8.0\piramida.pdb
+C:\Users\ADVAN\Documents\piramida\piramida\obj\Debug\net8.0\piramida.dll
+C:\Users\ADVAN\Documents\piramida\piramida\obj\Debug\net8.0\refint\piramida.dll
+C:\Users\ADVAN\Documents\piramida\piramida\obj\Debug\net8.0\piramida.pdb
+C:\Users\ADVAN\Documents\piramida\piramida\obj\Debug\net8.0\piramida.genruntimeconfig.cache
+C:\Users\ADVAN\Documents\piramida\piramida\obj\Debug\net8.0\ref\piramida.dll
